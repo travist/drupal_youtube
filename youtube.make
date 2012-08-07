@@ -1,0 +1,13 @@
+core = 7.x
+api = 2
+projects[] = drupal
+projects[ctools] = 1.0
+projects[features] = 1.0
+projects[strongarm] = 2.0
+projects[views] = 3.3
+projects[mediafront] = 2.x-dev
+projects[feeds] = 2.0-alpha5
+projects[feeds_tamper] = 1.0-beta3
+projects[feeds_xpathparser] = 1.0-beta3
+projects[feeds_youtube_fetcher] = 1.x-dev
+projects[job_scheduler] = 2.0-alpha3
